@@ -1,0 +1,19 @@
+package com.deol.domain.enums;
+
+public enum TipoEvento {
+	
+	CONGRESSO,
+	ENCONTRO,
+	SEMINARIO,
+	MESA_REDONDA,
+	SIMPOSIO,
+	PAINEL,
+	FORUM,
+	CONFERENCIA,
+	JORNADA,
+	CURSOS,
+	COLOQUIO,
+	SEMANA,
+	WORKSHOP
+
+}
