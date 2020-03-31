@@ -7,5 +7,5 @@ import com.deol.domain.Usuario;
 
 @Repository
 public interface UsuarioRepository extends JpaRepository<Usuario, Long> {
-
+	
 }
